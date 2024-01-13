@@ -13,7 +13,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{69fcc62b-bd4a-f501-772c-69c6d1b0c7bd}</ProjectGuid>
+    <ProjectGuid>{7f69988a-ef87-db3e-08f4-3824c08c7735}</ProjectGuid>
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -295,38 +295,38 @@
  <Reference Include="UnityEditor.WindowsStandalone.Extensions">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
  </Reference>
- <Reference Include="DemiEditor">
- <HintPath>D:/MyProjects/StupidTheif/Assets/Plugins/Demigiant/DemiLib/Core/Editor/DemiEditor.dll</HintPath>
- </Reference>
- <Reference Include="log4netPlastic">
- <HintPath>D:/MyProjects/StupidTheif/Library/PackageCache/com.unity.collab-proxy@1.15.13/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
- </Reference>
- <Reference Include="DOTween">
- <HintPath>D:/MyProjects/StupidTheif/Assets/Plugins/Demigiant/DOTween/DOTween.dll</HintPath>
- </Reference>
- <Reference Include="DOTweenPro">
- <HintPath>D:/MyProjects/StupidTheif/Assets/Plugins/Demigiant/DOTweenPro/DOTweenPro.dll</HintPath>
- </Reference>
  <Reference Include="Unity.Plastic.Newtonsoft.Json">
- <HintPath>D:/MyProjects/StupidTheif/Library/PackageCache/com.unity.collab-proxy@1.15.13/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+ <HintPath>D:/MyProjects/3121605_finalGameProject/Library/PackageCache/com.unity.collab-proxy@1.15.13/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
  </Reference>
  <Reference Include="DemiLib">
- <HintPath>D:/MyProjects/StupidTheif/Assets/Plugins/Demigiant/DemiLib/Core/DemiLib.dll</HintPath>
+ <HintPath>D:/MyProjects/3121605_finalGameProject/Assets/Plugins/Demigiant/DemiLib/Core/DemiLib.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Plastic.Antlr3.Runtime">
- <HintPath>D:/MyProjects/StupidTheif/Library/PackageCache/com.unity.collab-proxy@1.15.13/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+ <HintPath>D:/MyProjects/3121605_finalGameProject/Library/PackageCache/com.unity.collab-proxy@1.15.13/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="DOTweenProEditor">
- <HintPath>D:/MyProjects/StupidTheif/Assets/Plugins/Demigiant/DOTweenPro/Editor/DOTweenProEditor.dll</HintPath>
+ <HintPath>D:/MyProjects/3121605_finalGameProject/Assets/Plugins/Demigiant/DOTweenPro/Editor/DOTweenProEditor.dll</HintPath>
  </Reference>
  <Reference Include="unityplastic">
- <HintPath>D:/MyProjects/StupidTheif/Library/PackageCache/com.unity.collab-proxy@1.15.13/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
+ <HintPath>D:/MyProjects/3121605_finalGameProject/Library/PackageCache/com.unity.collab-proxy@1.15.13/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
  </Reference>
  <Reference Include="DOTweenEditor">
- <HintPath>D:/MyProjects/StupidTheif/Assets/Plugins/Demigiant/DOTween/Editor/DOTweenEditor.dll</HintPath>
+ <HintPath>D:/MyProjects/3121605_finalGameProject/Assets/Plugins/Demigiant/DOTween/Editor/DOTweenEditor.dll</HintPath>
+ </Reference>
+ <Reference Include="DemiEditor">
+ <HintPath>D:/MyProjects/3121605_finalGameProject/Assets/Plugins/Demigiant/DemiLib/Core/Editor/DemiEditor.dll</HintPath>
+ </Reference>
+ <Reference Include="log4netPlastic">
+ <HintPath>D:/MyProjects/3121605_finalGameProject/Library/PackageCache/com.unity.collab-proxy@1.15.13/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
+ </Reference>
+ <Reference Include="DOTween">
+ <HintPath>D:/MyProjects/3121605_finalGameProject/Assets/Plugins/Demigiant/DOTween/DOTween.dll</HintPath>
+ </Reference>
+ <Reference Include="DOTweenPro">
+ <HintPath>D:/MyProjects/3121605_finalGameProject/Assets/Plugins/Demigiant/DOTweenPro/DOTweenPro.dll</HintPath>
  </Reference>
  <Reference Include="nunit.framework">
- <HintPath>D:/MyProjects/StupidTheif/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
+ <HintPath>D:/MyProjects/3121605_finalGameProject/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
  </Reference>
  <Reference Include="mscorlib">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -677,76 +677,76 @@
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Xml.XPath.XDocument.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.TestRunner">
- <HintPath>D:/MyProjects/StupidTheif/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+ <HintPath>D:/MyProjects/3121605_finalGameProject/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.TestRunner">
- <HintPath>D:/MyProjects/StupidTheif/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+ <HintPath>D:/MyProjects/3121605_finalGameProject/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Recorder.Editor">
- <HintPath>D:/MyProjects/StupidTheif/Library/ScriptAssemblies/Unity.Recorder.Editor.dll</HintPath>
+ <HintPath>D:/MyProjects/3121605_finalGameProject/Library/ScriptAssemblies/Unity.Recorder.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Cinemachine">
- <HintPath>D:/MyProjects/StupidTheif/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+ <HintPath>D:/MyProjects/3121605_finalGameProject/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>D:/MyProjects/StupidTheif/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>D:/MyProjects/3121605_finalGameProject/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="com.unity.cinemachine.editor">
- <HintPath>D:/MyProjects/StupidTheif/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
+ <HintPath>D:/MyProjects/3121605_finalGameProject/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Recorder.Base">
- <HintPath>D:/MyProjects/StupidTheif/Library/ScriptAssemblies/Unity.Recorder.Base.dll</HintPath>
+ <HintPath>D:/MyProjects/3121605_finalGameProject/Library/ScriptAssemblies/Unity.Recorder.Base.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>D:/MyProjects/StupidTheif/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>D:/MyProjects/3121605_finalGameProject/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VisualStudio.Editor">
- <HintPath>D:/MyProjects/StupidTheif/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+ <HintPath>D:/MyProjects/3121605_finalGameProject/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>D:/MyProjects/StupidTheif/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>D:/MyProjects/3121605_finalGameProject/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>D:/MyProjects/StupidTheif/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>D:/MyProjects/3121605_finalGameProject/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>D:/MyProjects/StupidTheif/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>D:/MyProjects/3121605_finalGameProject/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>D:/MyProjects/StupidTheif/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>D:/MyProjects/3121605_finalGameProject/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PlasticSCM.Editor">
- <HintPath>D:/MyProjects/StupidTheif/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
+ <HintPath>D:/MyProjects/3121605_finalGameProject/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>D:/MyProjects/StupidTheif/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>D:/MyProjects/3121605_finalGameProject/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>D:/MyProjects/StupidTheif/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>D:/MyProjects/3121605_finalGameProject/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Recorder">
- <HintPath>D:/MyProjects/StupidTheif/Library/ScriptAssemblies/Unity.Recorder.dll</HintPath>
+ <HintPath>D:/MyProjects/3121605_finalGameProject/Library/ScriptAssemblies/Unity.Recorder.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{a4e37e3c-499a-233f-9275-9144435b0586}</Project>
+      <Project>{bcd7d0e0-cb79-39ee-8506-b68605064951}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
     </ProjectReference>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{943dcb55-6f18-e3c0-8957-cb826da0ad33}</Project>
+      <Project>{523bcd4b-9761-ea83-5022-dfec48971712}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
     <ProjectReference Include="Assembly-CSharp-Editor-firstpass.csproj">
-      <Project>{09676b45-4fc7-b892-b2a7-3ba6576efb2f}</Project>
+      <Project>{b78241b1-2790-2cf0-4cf5-4cb54fa4bd49}</Project>
       <Name>Assembly-CSharp-Editor-firstpass</Name>
     </ProjectReference>
     <ProjectReference Include="SimpleInput.Runtime.csproj">
-      <Project>{d9114d73-e2f8-6e23-efdc-efa5db74de95}</Project>
+      <Project>{0d83ea66-bda2-d65c-8835-4897e20fd594}</Project>
       <Name>SimpleInput.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="SimpleInput.Editor.csproj">
-      <Project>{42ed3f4f-f69f-9e21-d66d-024101035bc9}</Project>
+      <Project>{aff843e3-1528-26d1-70d6-0f7586f8322a}</Project>
       <Name>SimpleInput.Editor</Name>
     </ProjectReference>
   </ItemGroup>
