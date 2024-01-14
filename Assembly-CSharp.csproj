@@ -148,6 +148,9 @@
      <Compile Include="Assets\Boing Kit\Script\BoingWork.cs" />
      <Compile Include="Assets\Boing Kit\Examples\Common\UFO Bunny\UFOController.cs" />
      <Compile Include="Assets\CharacterController\Runtime\Scripts\GameDevBehaviour.cs" />
+     <Compile Include="Assets\MyScripts\BasicCharacterController.cs" />
+     <Compile Include="Assets\MyScripts\PickUps.cs" />
+     <Compile Include="Assets\MyScripts\RoamingAround.cs" />
      <None Include="Assets\Boing Kit\Examples\Common\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_fuku.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
      <None Include="Assets\Epic Toon FX\Prefabs\Environment\Environment FX.txt" />
@@ -839,6 +842,18 @@
  </Reference>
  <Reference Include="Unity.Recorder">
  <HintPath>D:/MyProjects/3121605_finalGameProject/Library/ScriptAssemblies/Unity.Recorder.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.ProBuilder">
+ <HintPath>D:/MyProjects/3121605_finalGameProject/Library/ScriptAssemblies/Unity.ProBuilder.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.ProBuilder.AddOns.Editor">
+ <HintPath>D:/MyProjects/3121605_finalGameProject/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.ProBuilder.Editor">
+ <HintPath>D:/MyProjects/3121605_finalGameProject/Library/ScriptAssemblies/Unity.ProBuilder.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.ProBuilder.AssetIdRemapUtility">
+ <HintPath>D:/MyProjects/3121605_finalGameProject/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
