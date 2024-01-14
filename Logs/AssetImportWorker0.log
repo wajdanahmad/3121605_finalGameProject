@@ -4360,3 +4360,21 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 475.573564 seconds.
+  path: Assets/References.txt
+  artifactKey: Guid(3a6d0e20cb4cdf4448e24aaf8492cda1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/References.txt using Guid(3a6d0e20cb4cdf4448e24aaf8492cda1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63e4afa64e1ef0d11a9925afc1aab642') in 0.149635 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 22.457962 seconds.
+  path: Assets/CharacterController/Demo
+  artifactKey: Guid(204958fe87c1242729c3ecb63a672c22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CharacterController/Demo using Guid(204958fe87c1242729c3ecb63a672c22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b11ec1b721676c60f2d5237999ed0641') in 0.085505 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.781620 seconds.
+  path: Assets/CharacterController/Runtime
+  artifactKey: Guid(c0fe37bdff2c04d119a0dfb92e8808a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CharacterController/Runtime using Guid(c0fe37bdff2c04d119a0dfb92e8808a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70b58b82c3e19c19f3bf0d3434c4e227') in 0.081816 seconds 

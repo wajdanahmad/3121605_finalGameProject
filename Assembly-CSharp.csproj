@@ -192,6 +192,7 @@
      <None Include="Assets\Boing Kit\Shader\BoingKit.cginc" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
      <None Include="Assets\Boing Kit\Examples\Boing Behavior\Parented Object\README.txt" />
+     <None Include="Assets\References.txt" />
      <None Include="Assets\Boing Kit\Shader\BoingKitStandard.shader" />
      <None Include="Assets\Boing Kit\Examples\Common\UnityChan\Models\UnityChanShader\Shader\readme.txt" />
      <None Include="Assets\Boing Kit\Examples\Common\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_hada_blend.shader" />
